@@ -1,7 +1,7 @@
 # Marmaid Test Environment
 
-**Deployed:** Sun Sep  7 09:46:41 UTC 2025
-**Commit:** 05b081e5a2f0ca476450f6a3af1a0f78b31389a0
+**Deployed:** Sun Sep  7 20:34:27 UTC 2025
+**Commit:** b96df1a361d8d28a6ed93da97cf4c964c72ef929
 **Branch:** test
 
-[🚀 Production Environment](https://wkoziej.github.io/marmaid/)
+[🚀 Production Environment](https://marmaid.pl/)
